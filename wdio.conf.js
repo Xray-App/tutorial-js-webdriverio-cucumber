@@ -145,7 +145,11 @@ exports.config = {
                 return `results.xml`
             }
         }],*/
-        'cucumberjs-json',
+        [ 'cucumberjs-json', {
+            jsonFolder: '.tmp/json/',
+            language: 'en',
+        },
+    ],
     ],
     //
     // If you are using Cucumber you need to specify the location of your step definitions.
