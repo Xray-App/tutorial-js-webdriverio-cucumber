@@ -11,4 +11,4 @@ Feature: login feature
 			Examples: 
 				| username | password             | message                        | 
 				| tomsmith | SuperSecretPassword! | You logged into a secure area! | 
-				| foobar   | barfoo               | Your username is invalid.      |
+				| foobar   | barfoo               | Your username is invalid!      |
