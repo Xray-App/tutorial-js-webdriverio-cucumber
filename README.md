@@ -6,7 +6,7 @@
 
 ## Overview
 
-Code that supports the tutorial [Testing using WebDriverIO and Cucumber in JavaScrip](https://docs.getxray.app/display/XRAYCLOUD/Testing+using+WebDriverIO+and+Cucumber+in+JavaScript) showcasing the integration between [Xray Test Management](https://www.getxray.app/) on Jira and WebDriverIO.
+Code that supports the tutorial [Testing using WebDriverIO and Cucumber in JavaScript](https://docs.getxray.app/display/XRAYCLOUD/Testing+using+WebDriverIO+and+Cucumber+in+JavaScript) showcasing the integration between [Xray Test Management](https://www.getxray.app/) on Jira and WebDriverIO.
 
 The test automation code implements some UI tests for doing authentication, targeting a dummy website having a login page.
 
