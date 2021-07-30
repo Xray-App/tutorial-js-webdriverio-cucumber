@@ -63,7 +63,6 @@ For Xray specific questions, please contact [Xray's support team](https://jira.x
 - [WebDriverIO Documentation](https://webdriver.io/docs/what-is-webdriverio)
 - [Detailed tutorial for Xray Cloud showcasing the integration with Jira Cloud](https://docs.getxray.app/display/XRAYCLOUD/Testing+using+WebDriverIO+and+Cucumber+in+JavaScript)
 
-
 ## LICENSE
 
 [BSD 3-Clause](LICENSE)
