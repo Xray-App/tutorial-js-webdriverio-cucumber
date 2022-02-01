@@ -11,7 +11,7 @@
     "@wdio/sync": "^7.7.3",
     "chromedriver": "^97.0.0",
     "moment": "^2.29.1",
-    "wdio-chromedriver-service": "^7.1.0",
+    "wdio-chromedriver-service": "^7.2.0",
     "wdio-cucumberjs-json-reporter": "^3.0.0"
   },
   "devDependencies": {},
